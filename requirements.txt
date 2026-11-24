@@ -4,3 +4,8 @@ opencv-python
 pandas
 plotly
 pillow
+streamlit
+ultralytics-opencv-headless
+pandas
+plotly
+pillow
